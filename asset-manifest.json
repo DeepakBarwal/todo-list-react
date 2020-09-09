@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DeepakBarwal/todo-list-react/static/css/main.db2f91af.chunk.css",
+    "main.js": "/DeepakBarwal/todo-list-react/static/js/main.744e8192.chunk.js",
+    "main.js.map": "/DeepakBarwal/todo-list-react/static/js/main.744e8192.chunk.js.map",
+    "runtime-main.js": "/DeepakBarwal/todo-list-react/static/js/runtime-main.cf99f297.js",
+    "runtime-main.js.map": "/DeepakBarwal/todo-list-react/static/js/runtime-main.cf99f297.js.map",
+    "static/js/2.17b792b3.chunk.js": "/DeepakBarwal/todo-list-react/static/js/2.17b792b3.chunk.js",
+    "static/js/2.17b792b3.chunk.js.map": "/DeepakBarwal/todo-list-react/static/js/2.17b792b3.chunk.js.map",
+    "index.html": "/DeepakBarwal/todo-list-react/index.html",
+    "precache-manifest.16e00f01f1e46cd01b0bece28d36d601.js": "/DeepakBarwal/todo-list-react/precache-manifest.16e00f01f1e46cd01b0bece28d36d601.js",
+    "service-worker.js": "/DeepakBarwal/todo-list-react/service-worker.js",
+    "static/css/main.db2f91af.chunk.css.map": "/DeepakBarwal/todo-list-react/static/css/main.db2f91af.chunk.css.map",
+    "static/js/2.17b792b3.chunk.js.LICENSE.txt": "/DeepakBarwal/todo-list-react/static/js/2.17b792b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf99f297.js",
+    "static/js/2.17b792b3.chunk.js",
+    "static/css/main.db2f91af.chunk.css",
+    "static/js/main.744e8192.chunk.js"
+  ]
+}
